@@ -1,0 +1,42 @@
+export const projects = [
+  {
+    sno: "01",
+    url: "website.jpg",
+    title: "Personal Website v2",
+    desc: "Created a beautiful portfolio website for my GitHub repo that showcases my works, skills and information about me.",
+    tech: ["React.JS", "SCSS", "Tailwind CSS", "NPM"],
+    type: "Solo Project",
+  },
+  {
+    sno: "02",
+    url: "hulu.png",
+    title: "Hulu OTT App",
+    desc: "Usable, Responsive and beautiful ott player PWA that plays movies and trailers which are fetched via TMDB API request.",
+    tech: ["React.JS", "TMDB Api", "Axios", "NPM"],
+    type: "Solo Project",
+  },
+  {
+    sno: "03",
+    url: "codeacademy1.png",
+    title: "Coding Academy",
+    desc: "Created a coding academy landing page to ensure that code lives forever on the planet ans on your phone.. Built using Vanilla.js.",
+    tech: ["HTML", "CSS", "JavaScript", "Bash"],
+    type: "Solo Project",
+  },
+  {
+    sno: "04",
+    url: "deve1.png",
+    title: "Personal Portfolio V1",
+    desc: "This is the first beautiful iteration of my personal portfolio built with using Vanilla.js... Have a great look on my portfolio.",
+    tech: ["HTML", "CSS", "JavaScript", "Bash"],
+    type: "Solo Project",
+  },
+  {
+    sno: "05",
+    url: "fossil1.png",
+    title: "Fossil Watch",
+    desc: "Created a watch website named as Fossil Watch Website to showcase my skills in Frontend Development built using Vanilla.js.",
+    tech: ["HTML", "CSS", "JavaScript", "TIME_API"],
+    type: "Solo Project",
+  },
+];
