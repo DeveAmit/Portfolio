@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aea234f8.css",
+    "main.js": "/portfolio/static/js/main.2f25b494.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "index.html": "/portfolio/index.html",
+    "main.aea234f8.css.map": "/portfolio/static/css/main.aea234f8.css.map",
+    "main.2f25b494.js.map": "/portfolio/static/js/main.2f25b494.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea234f8.css",
+    "static/js/main.2f25b494.js"
+  ]
+}
