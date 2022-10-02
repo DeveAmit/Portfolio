@@ -11,7 +11,7 @@ export default function Home() {
         </div>
       </div>
       <div data-aos="fade-in" data-aos-delay="100" className="flex py-8 justify-center md:justify-start items-center gap-4">
-        <a target="_blank" href="https://www.linkedin.com/in/amitkumar" className="fill-slate-600 md:hover:scale-110 md:transition md:hover:fill-emerald-500" >
+        <a target="_blank" href="https://www.linkedin.com/in/amit-kumar-19511621a/" className="fill-slate-600 md:hover:scale-110 md:transition md:hover:fill-emerald-500" >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
